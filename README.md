@@ -21,9 +21,19 @@ The first SLTAT dates back to 2011. See the SLTAT history web page (http://sltat
 
 ## Venue
 
-[LISN](https://www.lisn.upsaclay.fr/le-laboratoire/acces/), Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
+[LISN]([https://www.lisn.upsaclay.fr/le-laboratoire/acces/](https://www.lisn.upsaclay.fr/the-lab/access-to-the-lisn/?lang=en), Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
 
 **ROOM SHANNON**
+
+## Program
+
+### First day: 13 October
+
+Submissions are invited for a two-days workshop that aims to bring together researchers who work with sign language translation with those who develop sign language avatar technologies.
+
+### Second day: 14 October
+
+todo
 
 ## Languages
 
