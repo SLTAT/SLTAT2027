@@ -44,6 +44,14 @@ The oral/signed presentations will be interpreted into/from International Sign. 
 Deaf participants who prefer to bring interpreters for their national sign language are kindly encouraged to do so and to contact us well ahead of time so that we can plan the room accordingly.
 
 ## Travel and Accommodations
+
+### Public transportation
+
+- TGV massy
+- Metro de massy jusqu'au lieu de la conférence 
+
+### Accommodations 
+
 Near the LISN, accessible by public transportation (buses from Massy-Palaiseau, Le Guichet, or Orsay stations)—restaurants and shops nearby : Campanile Paris-Saclay – [https://www.campanile.com/fr/hotels/campanile-paris-saclay](https://www.campanile.com/fr/hotels/campanile-paris-saclay)
 
 
