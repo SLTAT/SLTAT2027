@@ -17,11 +17,11 @@ Submissions are invited for a two-days workshop that aims to bring together rese
 
 ## Previous editions
 
-The first SLTAT dates back to 2011. See the SLTAT history web page (http://sltat.cs.depaul.edu) for info on previous editions.
+The first SLTAT dates back to 2011. See the SLTAT history web page ([http://sltat.cs.depaul.edu](http://sltat.cs.depaul.edu)) for info on previous editions.
 
 ## Venue
 
-[LISN]([https://www.lisn.upsaclay.fr/le-laboratoire/acces/](https://www.lisn.upsaclay.fr/the-lab/access-to-the-lisn/?lang=en), Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
+[LISN]([https://www.lisn.upsaclay.fr/le-laboratoire/acces/](https://www.lisn.upsaclay.fr/the-lab/access-to-the-lisn/?lang=en)), Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
 
 **ROOM SHANNON**
 
@@ -44,7 +44,7 @@ The oral/signed presentations will be interpreted into/from International Sign. 
 Deaf participants who prefer to bring interpreters for their national sign language are kindly encouraged to do so and to contact us well ahead of time so that we can plan the room accordingly.
 
 ## Travel and Accommodations
-Near the LISN, accessible by public transportation (buses from Massy-Palaiseau, Le Guichet, or Orsay stations)—restaurants and shops nearby : Campanile Paris-Saclay – https://www.campanile.com/fr/hotels/campanile-paris-saclay
+Near the LISN, accessible by public transportation (buses from Massy-Palaiseau, Le Guichet, or Orsay stations)—restaurants and shops nearby : Campanile Paris-Saclay – [https://www.campanile.com/fr/hotels/campanile-paris-saclay](https://www.campanile.com/fr/hotels/campanile-paris-saclay)
 
 
 ## Contacts
