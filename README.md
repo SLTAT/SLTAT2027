@@ -2,38 +2,32 @@
 
 # SLTAT 2027: Workshop on Sign Language Translation and Avatar Technologies
 
+The [SLTAT history](http://sltat.cs.depaul.edu) began in 2011 in Berlin, Germany. For 10 occurrences since, it has hosted academic and technical presentations addressing Sign Language processing and technology. This is the web page for the 11th edition, taking place **October 13 and 14, 2027 in Université Paris-Saclay**.
 
-Recent research in the use of avatars to animate sign language promises to provide increased accessibility for deaf people. In addition, avatars support sign linguistics research, providing a potential target for translation from spoken and other sign languages, and scan light on human factors of sign language usage.
+The planned format for this next edition is a two-day workshop, with a desire to increase the connection between \[turn to left of signing space] the scientific and engineering work on Sign Language, and \[turn right of singing space] the target users and signers.
+Grossly, the first day will follow a traditional academic programme, with selected oral talks and poster presentations. The second will place higher focus on usage and users. 
 
-Submissions are invited for a two-days workshop that aims to bring together researchers who work with sign language translation with those who develop sign language avatar technologies.
+Submissions are invited on any original academic work on Sign Language technology, as well as theoretical input to computer processing of Sign Language.
+This page will be updated ahead of the deadline with the submission process.
 
 
 ## Dates 
-- Submission deadline: To be announced
-- Notification of acceptance: To be announced
-- Camera ready: To be announced
-- Submission of slides for interpreters' preparation (oral/signed presentations only): To be announced
-- Workshop days: **13 October 2027 and 14 October 2027**
+- Paper submission deadline: 28/05/2027
+- Notification of acceptance: to be announced
+- Camera-ready submission deadline: to be announced
+- Submission of slides for interpreters' preparation (oral/signed presentations only): to be announced
+- Workshop days: 13–14/10/2027
 
-## Previous editions
 
-The first SLTAT dates back to 2011. See the SLTAT history web page ([http://sltat.cs.depaul.edu](http://sltat.cs.depaul.edu)) for info on previous editions.
+## Venue, access, accommodation
 
-## Venue
+[Laboratoire Interdisciplinaire des Sciences du Numérique (LISN)](https://www.lisn.upsaclay.fr/), "Digiteo" building, **Shannon lecture room**
+Address: Université Paris-Saclay, bâtiment 660, 1 rue René Thom, Gif-sur-Yvette, France
 
-[LISN]([https://www.lisn.upsaclay.fr/le-laboratoire/acces/](https://www.lisn.upsaclay.fr/the-lab/access-to-the-lisn/?lang=en)), Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
+Useful (anticipated) news: the new metro line 18 is opening December 2026. It will provide direct access to the venue from Orly airport and the Massy-Palaiseau station (many accommodation options there, and a short train ride from Paris). Station "Université Paris-Saclay" will be a mere 5 minutes away from the lecture room.
+Currrent tips on [access to LISN](https://www.lisn.upsaclay.fr/le-laboratoire/acces/), see section on "site Plaine" and "Digiteo" building.
+Nearby hotels are also listed on that page.
 
-**ROOM SHANNON**
-
-## Program
-
-### First day: 13 October
-
-Submissions are invited for a two-days workshop that aims to bring together researchers who work with sign language translation with those who develop sign language avatar technologies.
-
-### Second day: 14 October
-
-todo
 
 ## Languages
 
@@ -41,20 +35,11 @@ The workshop languages are English and International Sign.
 
 The oral/signed presentations will be interpreted into/from International Sign. The International Sign interpreters will also be around for the poster sessions to help out where necessary.
 
-Deaf participants who prefer to bring interpreters for their national sign language are kindly encouraged to do so and to contact us well ahead of time so that we can plan the room accordingly.
-
-## Travel and Accommodations
-
-### Public transportation
-
-- TGV massy
-- Metro de massy jusqu'au lieu de la conférence 
-
-### Accommodations 
-
-Near the LISN, accessible by public transportation (buses from Massy-Palaiseau, Le Guichet, or Orsay stations)—restaurants and shops nearby : Campanile Paris-Saclay – [https://www.campanile.com/fr/hotels/campanile-paris-saclay](https://www.campanile.com/fr/hotels/campanile-paris-saclay)
+Participants are welcome to bring interpreters for other Sign languages, and are kindly encouraged to warn us of it for room set-up purposes.
 
 
-## Contacts
+## Contact & committees
 
 The organizing committee can be reached by email at the following address: sltat@lisn.fr
+
+The reviewing and programme committees will be constituted and posted here soon.
