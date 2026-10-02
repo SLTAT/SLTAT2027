@@ -12,19 +12,24 @@ This page will be updated ahead of the deadline with the submission process.
 
 
 ## Dates 
-- Paper submission deadline: **28/05/2027**, anywhere on Earth
+
+All dates below are "anywhere on Earth".
+
+- Paper submission deadline: **28/05/2027**
 - Notification of acceptance: to be announced
 - Camera-ready submission deadline: to be announced
-- Submission of slides for interpreters' preparation (oral presentations only): to be announced
+- Submission of oral presentation slides (for interpreters' prep): to be announced
 - Conference days: 13–14/10/2027
 
 
 ## Venue, access, accommodation
 
-[Laboratoire Interdisciplinaire des Sciences du Numérique (LISN)](https://www.lisn.upsaclay.fr/), "Digiteo" building, **Shannon lecture room**
+[Laboratoire Interdisciplinaire des Sciences du Numérique (LISN)](https://www.lisn.upsaclay.fr/), "Digiteo" building, **Shannon lecture room**.
+
 Address: Université Paris-Saclay, bâtiment 660, 1 rue René Thom, Gif-sur-Yvette, France
 
 Useful (anticipated) news: the new metro line 18 is opening December 2026. It will provide direct access to the venue from the Massy-Palaiseau station (many accommodation options there, and a short train ride from Paris). Station "Université Paris-Saclay" will be a mere 5 minutes away from the lecture room.
+
 Currrent tips on [access to LISN](https://www.lisn.upsaclay.fr/le-laboratoire/acces/), see section on "site Plaine" and "Digiteo" building.
 Nearby hotels are also listed on that page.
 
