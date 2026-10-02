@@ -2,7 +2,7 @@
 
 # SLTAT 2027: 10th conference on Sign Language Translation and Avatar Technologies
 
-The [SLTAT history](http://sltat.cs.depaul.edu) began in 2011 in Berlin, Germany. For 10 occurrences since, it has hosted academic and technical presentations addressing Sign Language processing and technology. This is the web page for the 10th edition, taking place **October 13 and 14, 2027 in Université Paris-Saclay**.
+The [SLTAT history](http://sltat.cs.depaul.edu) began in 2011 in Berlin, Germany. For nine occurrences since, it has hosted academic and technical presentations addressing Sign Language processing and technology. This is the web page for the 10th edition, taking place **October 13 and 14, 2027 in Université Paris-Saclay**.
 
 The planned format for this next edition is a two-day conference, with a desire to increase the connection between \[turn to left of signing space] the scientific and engineering work on Sign Language, and \[turn to right of signing space] the target users and signers.
 Grossly, the first day will follow a traditional academic programme, with selected oral and poster presentations. The second will place higher focus on usage and users. 
