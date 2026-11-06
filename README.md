@@ -45,6 +45,6 @@ Participants are welcome to bring interpreters for other Sign languages, and are
 
 ## Contact & committees
 
-The organizing committee can be reached by email at the following address: sltat@lisn.fr
+The organizing committee is composed of LISN members Michael Filhol and Julie Halbout, and can be reached by email at <sltat@lisn.fr>.
 
 The reviewing and programme committees will be constituted and posted here soon.
